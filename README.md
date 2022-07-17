@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [psrlog](https://psrlog.com/) as well as on [Medium](https://medium.com/@rajagopalparthasarathi).
+I maintain a technical blog [psrlog](https://psrlog.com/) as well as write on [Medium](https://medium.com/@rajagopalparthasarathi).
+
+Had been a guest author in [Java Code Geeks](https://examples.javacodegeeks.com/author/rajagopal-parthasarathi/)
 
 A sample of my recent articles:
 
