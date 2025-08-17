@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-My name is Rajagopal and I'm a software engineer specializing in data. I'm from India, living in Bengaluru and currently working at [!HingeHealth[4.2]][4]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Rajagopal and I'm a software engineer specializing in data. I'm from India, living in Bengaluru and currently working at [![HingeHealth][4.2]][4]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
 **rparthas/rparthas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
