@@ -64,7 +64,7 @@ A sample of my recent articles:
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/rparthas/rparthas/master/linkedin-3-16.png (LinkedIn icon without padding)
-[4.2]: https://images.seeklogo.com/logo-png/47/1/hinge-health-logo-png_seeklogo-470606.png
+[4.2]: https://raw.githubusercontent.com/rparthas/rparthas/master/hingehealth.png
 
 
 <!-- links to your social media accounts -->
