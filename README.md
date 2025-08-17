@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-My name is Rajagopal and I'm a software developer specializing in data. I'm from India, living in Chennai and currently working at Thoughtworks. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Rajagopal and I'm a software engineer specializing in data. I'm from India, living in Bengaluru and currently working at [!HingeHealth[4.2]][4]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
 **rparthas/rparthas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ A sample of my recent articles:
 <!-- BLOG-POST-LIST:START -->
 - [Building a data platform](https://psrlog.com/evolution-of-data-platform-part-2)
 - [Partitioning - DDIA](https://psrlog.com/6-partitioning)
-- [Architecture of a video platform](https://psrlog.com/architecture-of-a-video-platform)
+- [Handling Data Redaction in Delta Live Tables for Reliable Data Pipelines](https://psrlog.com/handling-data-redaction-in-delta-live-tables-for-reliable-data-pipelines)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -64,6 +64,7 @@ A sample of my recent articles:
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/rparthas/rparthas/master/linkedin-3-16.png (LinkedIn icon without padding)
+[4.2]: https://images.seeklogo.com/logo-png/47/1/hinge-health-logo-png_seeklogo-470606.png
 
 
 <!-- links to your social media accounts -->
@@ -71,3 +72,4 @@ A sample of my recent articles:
 [1]: https://twitter.com/PS_Rajagopal
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/rajagopalparthasarathi/
+[4]: https://www.hingehealth.com/
